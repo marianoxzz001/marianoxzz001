@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mariano! 👋
 
-<!--
-**marianoxzz001/marianoxzz001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **.NET specialist** and a passionate software developer who enjoys building reliable, scalable, and meaningful solutions.
 
-Here are some ideas to get you started:
+My main expertise is in the .NET ecosystem, and I also work with **Python**, **JavaScript**, and **Java**. I'm always exploring new technologies, improving my skills, and turning ideas into code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies I Work With
+
+- **.NET / C#**
+- **Python**
+- **JavaScript**
+- **Java**
+- APIs, backend development, and automation
+
+## 📊 GitHub Statistics
+
+![Mariano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianoxzz001&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianoxzz001&layout=compact&theme=tokyonight)
+
+---
+
+✨ *Technology is not just my profession — it's my passion.*
