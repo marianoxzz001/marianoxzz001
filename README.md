@@ -14,9 +14,9 @@ My main expertise is in the .NET ecosystem, and I also work with **Python**, **J
 
 ## 📊 GitHub Statistics
 
-![Mariano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianoxzz001&show_icons=true&theme=tokyonight)
+![Mariano's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marianoxzz001&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianoxzz001&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marianoxzz001&layout=compact&theme=tokyonight)
 
 ---
 
