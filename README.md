@@ -1,7 +1,7 @@
-<h1 align="center">Oi, eu sou o Mariano 👋</h1>
+<h1 align="center">Hi, I'm Mariano 👋</h1>
 
 <p align="center">
-  <b>Especialista em .NET</b> e desenvolvedor apaixonado por construir soluções confiáveis, escaláveis e com propósito.
+  <b>.NET specialist</b> and passionate developer who enjoys building reliable, scalable, and meaningful solutions.
 </p>
 
 <p align="center">
@@ -14,28 +14,28 @@
 
 ---
 
-### 🧭 Sobre mim
+### 🧭 About Me
 
-Minha principal expertise é no ecossistema **.NET**, e também trabalho com **Python**, **JavaScript** e **Java**. Estou sempre explorando novas tecnologias, aprimorando minhas habilidades e transformando ideias em código.
+My main expertise is in the .NET ecosystem, and I also work with **Python**, **JavaScript**, and **Java**. I'm always exploring new technologies, improving my skills, and turning ideas into code.
 
-- 🔭 Focado em **APIs, back-end e automação**
-- 🌱 Aprendendo continuamente novas ferramentas e boas práticas
-- 💬 Fale comigo sobre .NET, back-end ou automação de processos
-- 📫 Como me encontrar: *(adicione seu e-mail ou LinkedIn aqui)*
+- 🔭 Focused on **APIs, back-end development, and automation**
+- 🌱 Constantly learning new tools and best practices
+- 💬 Ask me about .NET, back-end development, or process automation
+- 📫 How to reach me: *(add your email or LinkedIn here)*
 
 ---
 
-### 🚀 Tecnologias que utilizo
+### 🚀 Technologies I Work With
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,py,js,java,html,css,git" />
 </p>
 
-> Sem barrinhas de "nível de habilidade" — isso costuma ser mais decoração do que informação útil. Os ícones acima já mostram o stack; os projetos no perfil mostram a profundidade.
+> No "skill level" bars here — those tend to be more decoration than useful information. The icons above show the stack; the projects on my profile show the depth.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=marianoxzz001&show_icons=true&theme=dark&hide_border=true&count_private=true" />
@@ -49,5 +49,5 @@ Minha principal expertise é no ecossistema **.NET**, e também trabalho com **P
 ---
 
 <p align="center">
-  <i>“Transformando ideias em código, uma linha por vez.”</i>
+  <i>"Turning ideas into code, one line at a time."</i>
 </p>
