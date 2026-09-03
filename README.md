@@ -19,3 +19,4 @@ My main expertise is in the .NET ecosystem, and I also work with **Python**, **J
 ---
 
 ✨ *Technology is not just my profession — it's my passion.*
+
