@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -18,9 +20,10 @@
 
 My main expertise is in the .NET ecosystem, and I also work with **Python**, **JavaScript**, and **Java**. I'm always exploring new technologies, improving my skills, and turning ideas into code.
 
-- 🔭 Focused on **APIs, back-end development, and automation**
+- 🔭 Focused on **APIs, back-end development, databases, and automation**
+- 🐧 Comfortable working in **Linux** environments
 - 🌱 Constantly learning new tools and best practices
-- 💬 Ask me about .NET, back-end development, or process automation
+- 💬 Ask me about .NET, SQL, back-end development, or process automation
 - 📫 How to reach me: *(add your email or LinkedIn here)*
 
 ---
@@ -28,7 +31,7 @@ My main expertise is in the .NET ecosystem, and I also work with **Python**, **J
 ### 🚀 Technologies I Work With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,py,js,java,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,py,js,java,html,css,git,linux,mysql,bash" />
 </p>
 
 > No "skill level" bars here — those tend to be more decoration than useful information. The icons above show the stack; the projects on my profile show the depth.
