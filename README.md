@@ -24,7 +24,7 @@ My main expertise is in the .NET ecosystem, and I also work with **Python**, **J
 - 🐧 Comfortable working in **Linux** environments
 - 🌱 Constantly learning new tools and best practices
 - 💬 Ask me about .NET, SQL, back-end development, or process automation
-- 📫 How to reach me: *(by email: dudumarian60@gmail.com linkedin.com/in/emariano-dev/)*
+- 📫 How to reach me: *(by email: dudumarian60@gmail.com https://www.linkedin.com/in/emariano-dev//)*
 
 ---
 
