@@ -32,7 +32,7 @@ My main expertise is in the .NET ecosystem, and I also work with **React**, **Py
 
 ### 🚀 Technologies I Work With
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,react,py,js,java,html,css,git,linux,mysql,bash" />
 </p>
 
@@ -43,10 +43,37 @@ My main expertise is in the .NET ecosystem, and I also work with **React**, **Py
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marianoxzz001&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoxzz001&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marianoxzz001&theme=github_dark"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marianoxzz001&theme=github_dark"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=marianoxzz001&theme=dark&hide_border=true" />
+  <img
+    width="80%"
+    src="https://streak-stats.demolab.com?user=marianoxzz001&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one commit at a time.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/marianoxzz001">
+    <img src="https://img.shields.io/badge/GitHub-marianoxzz001-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/emariano-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
