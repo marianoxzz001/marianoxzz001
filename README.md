@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mariano 👋</h1>
 
 <p align="center">
-  <b>.NET specialist</b> and passionate developer who enjoys building reliable, scalable, and meaningful solutions.
+  <b>.NET Specialist</b> and passionate developer who enjoys building reliable, scalable, and meaningful solutions.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ My main expertise is in the .NET ecosystem, and I also work with **React**, **Py
 - 🐧 Comfortable working in **Linux** environments
 - 🌱 Constantly learning new tools and best practices
 - 💬 Ask me about .NET, React, SQL, back-end development, or process automation
-- 📫 How to reach me: *(by email: dudumarian60@gmail.com OR https://www.linkedin.com/in/emariano-dev/)*
+- 📫 Contact me: [Email](mailto:dudumarian60@gmail.com) | [LinkedIn](https://www.linkedin.com/in/emariano-dev/)
 
 ---
 
@@ -43,16 +43,10 @@ My main expertise is in the .NET ecosystem, and I also work with **React**, **Py
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marianoxzz001&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoxzz001&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marianoxzz001&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoxzz001&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marianoxzz001&theme=dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>"Turning ideas into code, one line at a time."</i>
+  <img src="https://streak-stats.demolab.com?user=marianoxzz001&theme=dark&hide_border=true" />
 </p>
